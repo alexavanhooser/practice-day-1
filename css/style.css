@@ -1,0 +1,25 @@
+.row {
+  background-color: white;
+  border: 1px solid black;
+  height: 100px;
+}
+.col-xs-1 {
+  background color: black;
+  border: 1px solid #fff;
+  height: 200px;
+}
+.col-xs-3 {
+  background-color: grey;
+  border: 1px solid black;
+  height: 350px;
+}
+.col-md-1 {
+  background-color: blue;
+  border: 1px solid black;
+  height: 200px;
+}
+.col-lg-2 {
+  background-color: purple;
+  border: 1px solid black;
+  height: 300px;
+}
