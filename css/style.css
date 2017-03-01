@@ -8,8 +8,8 @@
   border: 1px solid #fff;
   height: 200px;
 }
-.col-s-3 {
-  background-color: grey;
+.col-sm-3 {
+  background-color: yellow;
   border: 1px solid black;
   height: 350px;
 }
